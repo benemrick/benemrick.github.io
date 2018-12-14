@@ -6,7 +6,10 @@ Visit my [Design Manifesto](http://benemrick.github.io/manifesto)
 
 # Projects
 
+*All project were completed in teams and reflect the effort of the group*
+
 ![Image of Mobile Redesign]
 (https://github.com/benemrick/benemrick.github.io/blob/master/WPL%20Home%20Page.png)
+
 [Design for Others](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d)
 
