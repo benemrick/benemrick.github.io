@@ -22,7 +22,7 @@ Utilizing the Affectiva library to implement an emotionally aware technology. We
 that generates a meal based on the user's mood
 
 ### [Design for Another World](https://medium.com/@adhrsh122/design-for-a-new-world-d8ffca0f996f)
-Developing an immersive virtual reality (VR) experience through ambient scenery and audio.
+Developing an immersive virtual reality (VR) experience through ambient scenery and audio
 
 
 
