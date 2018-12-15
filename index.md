@@ -8,7 +8,30 @@ Visit my [Design Manifesto](http://benemrick.github.io/manifesto)
 
 *All project were completed in teams and reflect the effort of the group*
 
-![image](https://github.com/benemrick/benemrick.github.io/blob/master/WPL%20Home%20Page.png)
+# Design for Others
+![image](https://raw.githubusercontent.com/benemrick/benemrick.github.io/blob/master/WPL%20Home%20Page.png)
 
-[Design for Others](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d)
+[reflection](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d)
+
+# Design for Understanding
+
+[reflection](https://medium.com/@benemrick/design-for-understanding-9efe5ccb29f5)
+
+# Design for Tension
+
+[reflection](https://medium.com/@benemrick/design-for-tension-9f26b412c300)
+
+# Design for Wellbeing
+
+[reflection](https://medium.com/@benemrick/design-for-wellbeing-64f51a5cec6b)
+
+# Design for Another World
+
+[reflection](https://medium.com/@adhrsh122/design-for-a-new-world-d8ffca0f996f)
+
+
+
+
+
+
 
