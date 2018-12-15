@@ -8,26 +8,22 @@ Visit my [Design Manifesto](http://benemrick.github.io/manifesto)
 
 *All project were completed in teams and reflect the effort of the group*
 
-### Design for Others
-![image](https://raw.githubusercontent.com/benemrick/benemrick.github.io/blob/master/WPL%20Home%20Page.png)
+### [Design for Others](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d)
+Translating the existing design of the Worcester Public Library to a mobile context
 
-[reflection](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d)
+### [Design for Understanding](https://medium.com/@benemrick/design-for-understanding-9efe5ccb29f5)
+Creating persuasive and informative data visualizations realtive college graduation statisitcs
 
-### Design for Understanding
+### [Design for Tension](https://medium.com/@benemrick/design-for-tension-9f26b412c300)
+Addressing the medicare as a single-payer system with an interactive chatbot
 
-[reflection](https://medium.com/@benemrick/design-for-understanding-9efe5ccb29f5)
+### [Design for Wellbeing](https://medium.com/@benemrick/design-for-wellbeing-64f51a5cec6b)
+Utilize the Affectiva library to implement an emotionally aware technology. We created an application 
+that generates a meal based on the user's mood
 
-### Design for Tension
+### [Design for Another World](https://medium.com/@adhrsh122/design-for-a-new-world-d8ffca0f996f)
+Developing an immersive ambient experience for users to enjoy through audio and scenic images
 
-[reflection](https://medium.com/@benemrick/design-for-tension-9f26b412c300)
-
-### Design for Wellbeing
-
-[reflection](https://medium.com/@benemrick/design-for-wellbeing-64f51a5cec6b)
-
-### Design for Another World
-
-[reflection](https://medium.com/@adhrsh122/design-for-a-new-world-d8ffca0f996f)
 
 
 
