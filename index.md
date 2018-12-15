@@ -18,11 +18,11 @@ Creating persuasive and informative data visualizations realtive college graduat
 Addressing the medicare as a single-payer system with an interactive chatbot
 
 ### [Design for Wellbeing](https://medium.com/@benemrick/design-for-wellbeing-64f51a5cec6b)
-Utilize the Affectiva library to implement an emotionally aware technology. We created an application 
+Utilizing the Affectiva library to implement an emotionally aware technology. We created an application 
 that generates a meal based on the user's mood
 
 ### [Design for Another World](https://medium.com/@adhrsh122/design-for-a-new-world-d8ffca0f996f)
-Developing an immersive ambient experience for users to enjoy through audio and scenic images
+Developing an immersive virtual reality (VR) experience through ambient scenery and audio.
 
 
 
